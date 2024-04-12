@@ -1,0 +1,19 @@
+.body{
+    font-family: monospace;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 60px;
+    border: solid 1px;
+    border-radius: 20px;
+    background-color: white
+}
+.lista{
+    list-style: none;
+}
+figure{
+    display: flex;
+}
